@@ -24,7 +24,7 @@ Below is the visual overview of the current hardware design.
 
 
 ### Schematic Preview
-![Schematic Preview](Schematic_PDF_ESC.png)
+![Schematic Preview](Schematic_ESC.png)
 *Figure 1: Main control and power stage schematic layout.*
 
 
